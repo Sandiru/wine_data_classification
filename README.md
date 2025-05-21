@@ -54,17 +54,6 @@ pip install ucimlrepo pandas scikit-learn matplotlib
 
 ---
 
-## 📎 File Structure
-
-```
-.
-├── ML_Assignment01(CS_2020_032).ipynb  # Your notebook (optional)
-├── main.py                            # Main Python script (if applicable)
-├── README.md                          # This file
-```
-
----
-
 ## ✅ Conclusion
 
 The k-NN classifier performs very well on the Wine dataset, with the best results achieved at lower values of `k`. This project demonstrates essential steps in a machine learning pipeline, including data preprocessing, feature scaling, model training, evaluation, and visualization.
